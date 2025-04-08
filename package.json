@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot to download media from social media links",
+  "main": "bot.js",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.76.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "𝕻𝖗𝖊𝖈𝖎𝖔𝖚𝖘",
+  "license": "MIT"
+}
